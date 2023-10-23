@@ -1,6 +1,6 @@
 # what beabadoobee song(s) should you listen to?
 
-#questions
+#questions.
 questions = [
     "Have you listened to Beabadoobee before",
     "Do you feel like listening to a whole album right now",
